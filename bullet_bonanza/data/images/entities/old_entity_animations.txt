@@ -1,0 +1,14 @@
+player/idle/ 10;10 loop
+player/moveSide/ 10;10 loop
+player/moveUp/ 10;10 loop
+player/moveDown/ 10;10 loop
+player/moveUpperSide/ 10;10 loop
+player/moveLowerSide/ 10;10 loop
+player/dead/ 10;10 loop
+/idle/ 10;10 loop
+malcolm/lookDown/ 10;10 loop
+malcolm/lookLowerSide/ 10;10 loop
+malcolm/lookSide/ 10;10 loop
+malcolm/lookUp/ 10;10 loop
+malcolm/lookUpperSide/ 10;10 loop
+wings/flapping/ 8;2;2;2;2;2 loop

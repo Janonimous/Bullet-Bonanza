@@ -1,0 +1,149 @@
+{"animations": {
+
+    "idle":
+        {"idle_0.png":
+        {
+            "coordinates": {"x": 0, "y": 0},
+            "size": {"w": 11, "h": 11}
+        },
+        "idle_1.png":
+        {
+            "coordinates": {"x": 12, "y": 0},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "up":
+        {"up_0.png":
+        {
+            "coordinates": {"x": 0, "y": 12},
+            "size": {"w": 11, "h": 11}
+        },
+        "up_1.png":
+        {
+            "coordinates": {"x": 12, "y": 12},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "upright":
+        {"upright_0.png":
+        {
+            "coordinates": {"x": 0, "y": 24},
+            "size": {"w": 11, "h": 11}
+        },
+        "upright_1.png":
+        {
+            "coordinates": {"x": 12, "y": 24},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "right":
+        {"right_0.png":
+        {
+            "coordinates": {"x": 0, "y": 36},
+            "size": {"w": 11, "h": 11}
+        },
+        "right_1.png":
+        {
+            "coordinates": {"x": 12, "y": 36},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "downright":
+        {"downright_0.png":
+        {
+            "coordinates": {"x": 0, "y": 48},
+            "size": {"w": 11, "h": 11}
+        },
+        "downright_1.png":
+        {
+            "coordinates": {"x": 12, "y": 48},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "down":
+        {"down_0.png":
+        {
+            "coordinates": {"x": 0, "y": 60},
+            "size": {"w": 11, "h": 11}
+        },
+        "down_1.png":
+        {
+            "coordinates": {"x": 12, "y": 60},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "downleft":
+        {"downleft_0.png":
+        {
+            "coordinates": {"x": 0, "y": 72},
+            "size": {"w": 11, "h": 11}
+        },
+        "downleft_1.png":
+        {
+            "coordinates": {"x": 12, "y": 72},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "left":
+        {"left_0.png":
+        {
+            "coordinates": {"x": 0, "y": 84},
+            "size": {"w": 11, "h": 11}
+        },
+        "left_1.png":
+        {
+            "coordinates": {"x": 12, "y": 84},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "upleft":
+        {"upleft_0.png":
+        {
+            "coordinates": {"x": 0, "y": 96},
+            "size": {"w": 11, "h": 11}
+        },
+        "upleft_1.png":
+        {
+            "coordinates": {"x": 12, "y": 96},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        },
+    "dead":
+        {"dead_0.png":
+        {
+            "coordinates": {"x": 0, "y": 108},
+            "size": {"w": 11, "h": 11}
+        },
+        "dead_1.png":
+        {
+            "coordinates": {"x": 12, "y": 108},
+            "size": {"w": 11, "h": 11}
+        },
+        "timings": [10, 10],
+        "tags": ["loop"]
+        }
+},
+"meta":
+{
+    "source_image": "malcolm.png",
+    "size": {"w": 23, "h": 119}
+}
+}

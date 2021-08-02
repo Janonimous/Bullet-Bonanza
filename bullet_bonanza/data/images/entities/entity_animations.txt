@@ -1,0 +1,5 @@
+player.png idle;up;upright;right;downright;down;downleft;left;upleft;dead
+skip malcolm.png idle;up;upright;right;downright;down;downleft;left;upleft;dead
+skip king.png idle
+pyramyth.png idle;down;downleft;left;upleft;up;upright;right;downright;idle_blink;down_blink;downleft_blink;left_blink;upleft_blink;up_blink;upright_blink;right_blink;downright_blink;stomp_shot;rapidfire;seekers
+wings.png flapping

@@ -1,0 +1,43 @@
+{"animations": {
+
+    "idle":
+        {"idle_0.png":
+        {
+            "coordinates": {"x": 0, "y": 0},
+            "size": {"w": 31, "h": 64}
+        },
+        "idle_1.png":
+        {
+            "coordinates": {"x": 31, "y": 0},
+            "size": {"w": 31, "h": 64}
+        },
+        "idle_2.png":
+        {
+            "coordinates": {"x": 61, "y": 0},
+            "size": {"w": 31, "h": 64}
+        },
+        "idle_3.png":
+        {
+            "coordinates": {"x": 0, "y": 64},
+            "size": {"w": 31, "h": 64}
+        },
+        "idle_4.png":
+        {
+            "coordinates": {"x": 31, "y": 64},
+            "size": {"w": 31, "h": 64}
+        },
+        "idle_5.png":
+        {
+            "coordinates": {"x": 61, "y": 64},
+            "size": {"w": 31, "h": 64}
+        },
+        "timings": [3, 3, 3 ,3 ,3 ,3],
+        "tags": ["loop"]
+        }
+},
+"meta":
+{
+    "source_image": "king.png",
+    "size": {"w": 93, "h": 128}
+}
+}
